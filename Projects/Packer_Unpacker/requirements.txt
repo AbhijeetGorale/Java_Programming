@@ -1,0 +1,7 @@
+# requirements.txt
+
+# Java version required
+Java SE 8 or higher
+
+# No external libraries required
+# Uses only java.io and java.util packages from the standard JDK
