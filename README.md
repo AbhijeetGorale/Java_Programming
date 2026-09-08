@@ -31,7 +31,7 @@ The purpose of this repository is to:
 - Prepare for interviews and academic examinations
 - Build a collection of Java examples for future reference
 
-## Author
+## Author:
 
 **Abhijeet Gorale**
 
